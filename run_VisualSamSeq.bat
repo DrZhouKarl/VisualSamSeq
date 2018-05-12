@@ -1,0 +1,1 @@
+VisualSamSeq.exe 2-1-bg.dsvl 2-1-bgalign-2.log colortable.txt output.log output.dsvl
